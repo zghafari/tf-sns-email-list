@@ -1,5 +1,5 @@
 
-# SNS Email Topic Terraform Module #
+# SNS Email List w/Topic Terraform Module #
 
 Terraform Module for SNS Topic and List of Emails
 
