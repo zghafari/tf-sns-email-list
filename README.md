@@ -47,7 +47,7 @@ Once you've applied it you can check the value with
 
 <!-- END OF PRE-COMMIT-TERRAFORM DOCS HOOK -->
 ### Walk-through
-http://aws-cloud.guru/terraform-support-for-email-sns-topic-subscription-bonus-email-list/
+http://aws-cloud.guru/terraform-sns-topic-email-list/
 
 ### Author
 
