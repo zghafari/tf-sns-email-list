@@ -18,11 +18,11 @@ Use the module in your terraform files:
       source = "github.com/zghafari/tf-sns-email-list"
 
       display_name  = "Example: CloudWatch Alerts"
-      email_addresses = ["user1@example.com, user2@example.com"]
+      email_addresses = ["user1@example.com", "user2@example.com"]
       stack_name    = "unique-sns-stack-name"
     }
 
-run`terraform init` to download the module.
+run `terraform init` to download the module.
 
 Once you've applied it you can check the value with
 
