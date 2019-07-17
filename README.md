@@ -46,9 +46,9 @@ Once you've applied it you can check the value with
 | arn | Email SNS topic ARN |
 
 <!-- END OF PRE-COMMIT-TERRAFORM DOCS HOOK -->
-### Walk-through
+## Walk-through
 http://aws-cloud.guru/terraform-sns-topic-email-list/
 
-### Author
+## Author
 
   [Zubin Ghafari](https://www.linkedin.com/in/zghafari/)
